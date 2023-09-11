@@ -1,1 +1,1 @@
-Este proyecto inicial, sera para la creacion de un videojuego de texto, donde iremos paso a paso de acuerdo a los que se nos va ense;ando en cada sesion de clases, de esta forma iremos armando el videojuego hast lograr manejar todas las funciones aprendidas en el proceso.
+Este proyecto inicial, sera para la creacion de un videojuego de texto, donde iremos paso a paso de acuerdo a los que se nos va enseñando en cada sesion de clases, de esta forma iremos armando el videojuego hast lograr manejar todas las funciones aprendidas en el proceso.
